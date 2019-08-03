@@ -20,6 +20,6 @@ def fourth_challenge
    }
 }
 
-  
+epic_tragedy[:status] = "dead"
 
 end
